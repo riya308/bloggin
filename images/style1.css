@@ -1,0 +1,101 @@
+body {
+    background-color: lightgray;
+  }
+.city{
+    color: gray;
+    font-size:15px;
+    margin-left: 10px;
+    
+}
+a{
+    text-decoration: none;
+    color: gray;
+  }
+  a:hover{
+    color: darkgrey;
+  }
+h1{
+    text-align: center;
+}
+.city2{
+    text-align: center;
+    color: darkslategray;
+}
+* {
+    box-sizing: border-box;
+  }
+  input,
+  .btn {
+    width: 80%;
+    padding: 4px;
+    border: none;
+    border-radius: 4px;
+    margin: 5px 0;
+    opacity: 0.85;
+    display: inline-block;
+    font-size: 13px;
+    line-height: 20px;
+    text-decoration: none; /* remove underline from anchors */
+  }
+  input,
+  .bt {
+    width: 70%;
+    padding: 2px;
+    border: none;
+    border-radius: 4px;
+    margin: 5px 0;
+    opacity: 0.85;
+    display: inline-block;
+    font-size: 13px;
+    line-height: 20px;
+    text-decoration: none; /* remove underline from anchors */
+  }
+  
+  input:hover,
+  .btn:hover {
+    opacity: 1;
+  }
+    
+.fb {
+    background-color: #3B5998;
+    color: white;
+  }
+  
+  
+  .google {
+    background-color: white;
+    color: black;
+  }
+.col {
+    float: center;
+    width: 17%;
+    margin: auto;
+    padding: 10px 0px;
+    margin-top: 6px;
+  }
+  .city3{
+    text-align: center;
+    color: darkslategray;
+}
+input,
+  .btn1 {
+    width: 50%;
+    padding: 3px;
+    border: none;
+    border-radius: 4px;
+    margin: 5px 0;
+    opacity: 0.85;
+    display: inline-block;
+    font-size: 13px;
+    line-height: 20px;
+    text-decoration: none; 
+  }
+  
+  
+.rol {
+    float: center;
+    width: 17%;
+    margin: auto;
+    padding: 10px 0px;
+    margin-top: 6px;
+  }

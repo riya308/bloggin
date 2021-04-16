@@ -1,0 +1,63 @@
+body {
+    background-color: lightgray;
+  }
+.city a{
+    color: gray;
+    font-size:15px;
+    margin-left: 10px;
+    text-decoration: none;
+    margin-left:50px;
+}
+.button {
+    position: absolute;
+    right: 200px;
+    border: none;
+    color: white;
+    padding: 7px 10px;
+    align-self: left;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    cursor: pointer;
+    background-color: #2d2e2d;
+    border-radius: 5px;
+    margin-right: 10px;
+    margin-top: 30px;
+    opacity:0.8;
+    transition: 0.3s;
+  }
+
+  button:hover{
+      opacity:1;
+      color:rgb(8, 244, 252)
+  }
+  .button1 {
+    position: absolute;
+    right: 100px;
+    border: none;
+    color: white;
+    padding: 7px 7px;
+    align-self: left;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    cursor: pointer;
+    background-color: #2d2e2d;
+    border-radius: 5px;
+    margin-right: 10px;
+    margin-top: 30px;
+    opacity:0.8;
+    transition: 0.3s;
+  }
+
+  .col1 {
+    column-count: 4;
+    height: 300px;
+    column-fill: auto;
+    margin-left:200px;
+    font-size: 15px;
+  }
+
+  
